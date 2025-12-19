@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [3110-score-of-a-string](https://github.com/Rajansinghg/Leetcode_questions/tree/master/3110-score-of-a-string) |
