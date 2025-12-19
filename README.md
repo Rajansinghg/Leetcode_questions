@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -43,9 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [3110-score-of-a-string](https://github.com/Rajansinghg/Leetcode_questions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
