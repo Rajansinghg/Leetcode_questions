@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1929-concatenation-of-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
 ## String
@@ -63,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
