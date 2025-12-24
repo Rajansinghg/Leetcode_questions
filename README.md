@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -81,8 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
