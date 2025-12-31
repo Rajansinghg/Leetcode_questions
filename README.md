@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -94,4 +97,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
