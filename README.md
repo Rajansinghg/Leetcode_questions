@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0242-valid-anagram) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
