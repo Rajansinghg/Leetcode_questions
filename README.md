@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajansinghg/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
